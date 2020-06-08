@@ -1,0 +1,32 @@
+{
+  "name": "tanks.io",
+  "version": "1.0.0",
+  "description": ".io implementation of the game \"Tanks\" for the Wii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnrso/tanks.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnrso/tanks.io/issues"
+  },
+  "homepage": "https://github.com/johnrso/tanks.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "html-webpack-plugin": "^3.2.0",
+    "lodash": "^4.17.15",
+    "shortid": "^2.2.15",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0",
+    "throttle-debounce": "^2.1.0",
+    "webpack": "^4.41.2",
+    "webpack-dev-middleware": "^3.7.2"
+  }
+}
